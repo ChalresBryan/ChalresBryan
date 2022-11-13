@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ChalresBryan
-- 👀 I’m interested in ... C++ and Ruby
-- 🌱 I’m currently learning ... C++ and Ruby
-- 💞️ I’m looking to collaborate on ... C++ and Ruby devs
+
 - 📫 How to reach me ... https://www.linkedin.com/in/charles-bryan-70897413b/
 
 <!---
